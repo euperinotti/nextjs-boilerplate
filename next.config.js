@@ -6,7 +6,8 @@ const nextConfig = {
   },
   images: {
     formats: ['image/webp']
-  }
+  },
+  poweredByHeader: false
 }
 
 module.exports = nextConfig
